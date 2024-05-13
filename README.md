@@ -21,6 +21,8 @@
 <a href="https://www.leetcode.com/ekta_singh1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekta_singh1612" height="30" width="40" /></a>
 </p>
 
+<!-- LANGUAGES AND TOOLS SECTION -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
@@ -36,19 +38,21 @@
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ektas1612&theme=radical">
 </p>
 
+<!-- ABOUT ME SECTION -->
+
 ![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
 - <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
 
-- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I also graduated from **Bachelor of Computer Applications degree** at **L.S. College, Muzaffarpur**, where I have honed my skills in **C, C++, Java, data structures, algorithms, and database management systems**. I am always eager to learn **new technologies and improve my programming abilities**. My goal is to become a **proficient and versatile software developer** who can solve complex problems and deliver value to users.
+- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>👩‍💻 As a self-taught programmer, I have a keen interest in Java full-stack development, MERN stack, C, C++, and SQL. I'm proficient in Java, JavaScript, and C++ and specialize in technologies like React, Spring, Spring Boot, and Next.js.
 
-- <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>As a **software developer**, I aim to **build solutions that can make human life easier in any way possible**.
+- <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>A🎓 I hold a Master's degree in Production Engineering (M.Tech) and a Bachelor's degree in Mechanical Engineering (B.Tech). While my educational background is in engineering, I've pursued my passion for programming through self-learning.
 
-- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I have gained hands-on experience in **developing portfolio, to-do list, calculator, and password generator applications using Python, HTML, CSS, and JavaScript**.
+- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌟 Although I don't have formal work experience in software development, I'm actively honing my skills and exploring new technologies. I'm eager to contribute to meaningful projects and make an impact in the software development community.
 
-- <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I am always ready to learn **modern technologies** and implement them to current solutions to make them more **efficient and robust**.
+- <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌱 In my free time, I enjoy diving deeper into coding, exploring new technologies, and working on personal projects. I'm always open to learning and collaborating with others to expand my knowledge and skills.
 
 - <img src="https://media2.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=5a38a5a2ejq5gjt45jc9unxegdbgjrdnb6ukllikd0cw90mq&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I'm currently working on How to Improve My Skills? Through Learning **New Programming Languages, Different Courses, and New Technologies** in the CSE Field of Study.
 
@@ -154,9 +158,9 @@
 
 <p align ="left">
        
- <a href="https://github.com/ektas1612/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=C-Program-s&theme=gruvbox"/></a>     
+ <a href="https://github.com/ektas1612/Striver_A2Z_DSA_Sheet"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=C-Program-s&theme=gruvbox"/></a>     
 
- <a href="https://github.com/ektas1612/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=Data-Structure-Program-s&theme=onedark"/></a>  
+ <a href="https://github.com/ektas1612/React_projects"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=Data-Structure-Program-s&theme=onedark"/></a>  
 
  <a href="https://github.com/ektas1612/C-Plus-Plus-Programs"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=C-Plus-Plus-Programs&theme=cobalt"/></a>
 
