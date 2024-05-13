@@ -2,7 +2,7 @@
     <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ekta Singh</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Ekta Singh</h1>
 <h3 align="center">An aspiring full-stack Java developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/ektasingh161294" target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh161294?logo=twitter&style=for-the-badge" alt="ektasingh161294" /></a> </p>
@@ -29,15 +29,11 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ektas1612"/></a>
 </p>
-<p align="center" width="100%">
-    <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
-</p>
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™</h1>
-<h3 align="center">I'm a passionate Student from India.</h3>
+
 
  ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
 <p align="center" width="100%">
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=iam-priyanshu-sharma&theme=radical">
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ektas1612&theme=radical">
 </p>
 
 ![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
@@ -61,7 +57,7 @@
 
 - <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
 
-- <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://iam-priyanshu-sharma.github.io/Portfolio/?#)**
+- <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://ekts1612.github.io/Portfolio/?#)**
 
 - <img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
 
@@ -134,14 +130,14 @@
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
  <a href = "https://leetcode.com/iam-priyanshu-sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>
  <a href = "https://stackoverflow.com/users/19811633/he%e0%b8%aar%cf%84%e3%80%85h%e0%b8%aac%d2%9cer"><img src="https://img.icons8.com/color/48/null/stackoverflow.png"/></a>
-   <a href="https://auth.geeksforgeeks.org/user/iam_priyanshu_sharma/"><img src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/></a>
+   <a href="https://auth.geeksforgeeks.org/user/ektas1612/"><img src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/></a>
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
-<a href="https://github.com/iam-priyanshu-sharma/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=iam-priyanshu-sharma">
+<a href="https://github.com/ektas1612/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ektas1612">
 </a>
-<a href="https://github.com/iam-priyanshu-sharma?tab=followers"><img src="https://img.shields.io/github/followers/iam-priyanshu-sharma?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/ektas1612?tab=followers"><img src="https://img.shields.io/github/followers/ektas1612?label=Followers&style=social" alt="GitHub Badge">
 </a>    
 
 ## <img src="https://media1.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=5a38a5a2k3kaqtjtxf6mlamhsjjaes76fj063m1i4617wtoo&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>Quote that motivates me:-
@@ -158,17 +154,17 @@
 
 <p align ="left">
        
- <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/></a>     
+ <a href="https://github.com/ektas1612/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=C-Program-s&theme=gruvbox"/></a>     
 
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/></a>  
+ <a href="https://github.com/ektas1612/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=Data-Structure-Program-s&theme=onedark"/></a>  
 
- <a href="https://github.com/iam-priyanshu-sharma/C-Plus-Plus-Programs"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Plus-Plus-Programs&theme=cobalt"/></a>
+ <a href="https://github.com/ektas1612/C-Plus-Plus-Programs"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=C-Plus-Plus-Programs&theme=cobalt"/></a>
 
- <a href="https://github.com/iam-priyanshu-sharma/JAVA-Program-s"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=JAVA-Program-s&theme=merko"/></a> 
+ <a href="https://github.com/ektas1612/JAVA-Program-s"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=JAVA-Program-s&theme=merko"/></a> 
    
- <a href="https://github.com/iam-priyanshu-sharma/Python-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Python-Program-s&theme=tokyonight"/></a>
+ <a href="https://github.com/ektas1612/Python-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=Python-Program-s&theme=tokyonight"/></a>
    
- <a href="https://github.com/iam-priyanshu-sharma/Web-Development-Projects"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Web-Development-Projects&theme=radical"/></a>
+ <a href="https://github.com/iektas1612/Web-Development-Projects"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ektas1612&repo=Web-Development-Projects&theme=radical"/></a>
       
 </p>      
 
@@ -181,16 +177,16 @@
 
 
 <p align="center" width="100%"> 
-    <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727">
+    <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ektas1612&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727">
 </p>   
        
 <p align="center" width="100%">
-   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt">
+   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=ektas1612&show_icons=true&theme=cobalt">
 </p> 
  
 <p align="center" width="100%">
    
-   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=pie&langs_count=10&theme=tokyonight">
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ektas1612&layout=pie&langs_count=10&theme=tokyonight">
    
       
  <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
@@ -199,11 +195,11 @@
    
 <br/>
        
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-priyanshu-sharma&theme=xcode)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)
+[![Ekta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ektas1612&theme=xcode)](https://github.com/ektas1612/github-readme-activity-graph)
        
 <br/>
        
-![github-wrapped](https://github.com/iam-priyanshu-sharma/iam-priyanshu-sharma/assets/77437944/493fdf80-4322-40a7-90ea-c66d801e17d6)
+![github-wrapped](https://github.com/ektas1612/ektas1612/assets/77437944/493fdf80-4322-40a7-90ea-c66d801e17d6)
 
    
 <p align="center" width="100%">
