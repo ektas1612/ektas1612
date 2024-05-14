@@ -7,6 +7,35 @@
 
 <p align="left"> <a href="https://twitter.com/ektasingh161294" target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh161294?logo=twitter&style=for-the-badge" alt="ektasingh161294" /></a> </p>
 
+<!-- ABOUT ME SECTION -->
+
+![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
+
+## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
+
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
+
+- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>👩‍💻 As a self-taught programmer, I have a keen interest in Java full-stack development, MERN stack, C, C++, and SQL. I'm proficient in Java, JavaScript, and C++ and specialize in technologies like React, Spring, Spring Boot, and Next.js.
+
+- <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>A🎓 I hold a Master's degree in Production Engineering (M.Tech) and a Bachelor's degree in Mechanical Engineering (B.Tech). While my educational background is in engineering, I've pursued my passion for programming through self-learning.
+
+- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌟 Although I don't have formal work experience in software development, I'm actively honing my skills and exploring new technologies. I'm eager to contribute to meaningful projects and make an impact in the software development community.
+
+- <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌱 In my free time, I enjoy diving deeper into coding, exploring new technologies, and working on personal projects. I'm always open to learning and collaborating with others to expand my knowledge and skills.
+
+- <img src="https://media2.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=5a38a5a2ejq5gjt45jc9unxegdbgjrdnb6ukllikd0cw90mq&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I'm currently working on How to Improve My Skills? Through Learning **New Programming Languages, Different Courses, and New Technologies** in the CSE Field of Study.
+
+
+- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Full Stack Web Development(MERN)**
+
+- <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
+
+- <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://ekts1612.github.io/Portfolio/?#)**
+
+- <img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
+
+- <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
+
 - 🌱 I’m currently learning **Java, HTML, CSS, JS, React, Springboot, DBMS etc**
 
 - 📫 How to reach me **ektas1612@gmail.com**
@@ -38,34 +67,7 @@
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ektas1612&theme=radical">
 </p>
 
-<!-- ABOUT ME SECTION -->
 
-![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
-
-## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
-
-- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
-
-- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>👩‍💻 As a self-taught programmer, I have a keen interest in Java full-stack development, MERN stack, C, C++, and SQL. I'm proficient in Java, JavaScript, and C++ and specialize in technologies like React, Spring, Spring Boot, and Next.js.
-
-- <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>A🎓 I hold a Master's degree in Production Engineering (M.Tech) and a Bachelor's degree in Mechanical Engineering (B.Tech). While my educational background is in engineering, I've pursued my passion for programming through self-learning.
-
-- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌟 Although I don't have formal work experience in software development, I'm actively honing my skills and exploring new technologies. I'm eager to contribute to meaningful projects and make an impact in the software development community.
-
-- <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌱 In my free time, I enjoy diving deeper into coding, exploring new technologies, and working on personal projects. I'm always open to learning and collaborating with others to expand my knowledge and skills.
-
-- <img src="https://media2.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=5a38a5a2ejq5gjt45jc9unxegdbgjrdnb6ukllikd0cw90mq&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I'm currently working on How to Improve My Skills? Through Learning **New Programming Languages, Different Courses, and New Technologies** in the CSE Field of Study.
-
-
-- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Full Stack Web Development(MERN)**
-
-- <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
-
-- <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://ekts1612.github.io/Portfolio/?#)**
-
-- <img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
-
-- <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
 
 <!-- -<img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)** -->
 
@@ -123,10 +125,10 @@
     
 ## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
 <p align="left"> 
-<a href = "https://www.linkedin.com/in/iam-priyanshu-sharma"><img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
-<a href = "https://https://discordapp.com/users/Heสrτ々HสcҜer#9385/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
-<img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
+<a href = "https://www.linkedin.com/in/ektasingh1612"><img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/ekta.developer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
+<a href = "https://https://discordapp.com/users/es1612/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+<!--<img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
 <a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/nolan/48/steam--v1.png"/></a>  
 <a href = "https://www.freecodecamp.org/iam_priyanshu_sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-green-tal-revivo.png"/></a>
@@ -134,7 +136,7 @@
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
  <a href = "https://leetcode.com/iam-priyanshu-sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>
  <a href = "https://stackoverflow.com/users/19811633/he%e0%b8%aar%cf%84%e3%80%85h%e0%b8%aac%d2%9cer"><img src="https://img.icons8.com/color/48/null/stackoverflow.png"/></a>
-   <a href="https://auth.geeksforgeeks.org/user/ektas1612/"><img src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/></a>
+   <a href="https://auth.geeksforgeeks.org/user/ektas1612/"><img src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/></a>-->
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
