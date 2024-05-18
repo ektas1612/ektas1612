@@ -57,11 +57,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektas1612&show_icons=true&locale=en&layout=compact" alt="ektas1612" /></p>
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ektas1612"/></a>
-</p>
-
-
+<!-- -->
  ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
 <p align="center" width="100%">
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ektas1612&theme=radical">
@@ -70,9 +66,10 @@
 
 
 <!-- -<img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)** -->
+<!-- -->
+- <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/es1612)**
 
-- <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/HeArT_HaCKeR_007)**
-
+<!-- -->
 ## <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>Programming Languages :
 
 <p align="left"> 
@@ -93,7 +90,7 @@
 <a href="https://www.javatpoint.com/flask-tutorial" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/flask.png" width="40" height="45"/></a>
 </p>
 
-       
+     <!-- -->
 ## <img src="https://media1.giphy.com/media/aJTIkVe75lNK1vsyoV/giphy.gif?cid=5a38a5a2h73pfx6jxeshvikttiwnwqazssn5jk82cqwabb81&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:45px;width:40px"/>Tools :
        
 <p align="left"> 
@@ -122,7 +119,8 @@
    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/null/npm.png"/></a>
    <a href="https://gluonhq.com/products/scene-builder/"><img src="https://img.icons8.com/nolan/48/scene-builder.png"/></a>
 </p>
-    
+
+  
 ## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
 <p align="left"> 
 <a href = "https://www.linkedin.com/in/ektasingh1612"><img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/></a>
