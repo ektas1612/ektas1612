@@ -31,13 +31,12 @@
 - <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Full Stack Web Development(MERN)**
 
 - <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
-
+<!--
 - <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://ekts1612.github.io/Portfolio/?#)**
-
 - <img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
 
 - <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
-
+-->
 - 🌱 I’m currently learning **Java, HTML, CSS, JS, React, Springboot, DBMS etc**
 
 - 📫 How to reach me **ektas1612@gmail.com**
@@ -59,7 +58,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektas1612&show_icons=true&locale=en&layout=compact" alt="ektas1612" /></p>
 
-<!-- -->
+
  ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
 <p align="center" width="100%">
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ektas1612&theme=radical">
