@@ -5,9 +5,9 @@
     <img width="80%" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Ekta Singh</h1>
-<h3 align="center">An aspiring full-stack Java developer from India</h3>
+<h3 align="center">A full-stack Java developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/ektasingh161294" target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh161294?logo=twitter&style=for-the-badge" alt="ektasingh161294" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/ektasingh161294" --> target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh161294?logo=twitter&style=for-the-badge" alt="ektasingh161294" /></a> </p>
 
 <!-- ABOUT ME SECTION -->
 
@@ -17,7 +17,7 @@
 
 - <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
 
-- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>👩‍💻 As a self-taught programmer, I have a keen interest in Java full-stack development, C++, and SQL. I'm proficient in Java, JavaScript, and C++ and specialize in technologies like React, Spring, Spring Boot, etc.
+- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>👩‍💻 As a self-taught programmer, I have a keen interest in Java full-stack development, and SQL. I'm proficient in Java, JavaScript, and specialize in technologies like Spring, Spring Boot, React etc.
 
 - <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>A🎓 I hold a Master's degree in Production Engineering (M.Tech) and a Bachelor's degree in Mechanical Engineering (B.Tech). While my educational background is in mechanical engineering, I've pursued my passion for programming through self-learning.
 
@@ -37,7 +37,7 @@
 
 - <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
 -->
-- 🌱 I’m currently learning **Java, HTML, CSS, JS, React, Springboot, DBMS etc**
+<!-- - 🌱 I’m currently learning **Java, HTML, CSS, JS, React, Springboot, DBMS etc** -->
 
 - 📫 How to reach me **ektas1612@gmail.com**
 
@@ -60,18 +60,18 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektas1612&show_icons=true&locale=en&layout=compact" alt="ektas1612" /></p>
 
-
+<!--
  ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
 <p align="center" width="100%">
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ektas1612&theme=radical">
 </p>
-
+-->
 
 
 <!-- -<img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)** -->
-<!-- -->
+<!--
 - <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/es1612)**
-
+-->
 <!-- -->
 ## <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>Programming Languages :
 
@@ -112,7 +112,7 @@
    <a href="https://cloud.mongodb.com/"><img src="https://img.icons8.com/color/48/null/mongodb.png"/></a> 
 
 
-  
+<!-- 
 ## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
 <p align="left"> 
 <a href = "https://www.linkedin.com/in/ektasingh1612"><img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/></a>
