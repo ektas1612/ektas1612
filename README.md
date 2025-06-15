@@ -2,7 +2,7 @@
     <img width="80%" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Ekta Singh</h1>
-<h3 align="center">A full-stack Java developer from India</h3>
+<h3 align="center">A Backend Java developer from India</h3>
 
 ### 💻 Java Backend Developer | Spring Boot | Microservices | REST APIs | 4 Years Experience
 
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate Java developer with 4 years of experience
   - Microservices
   - JWT-based Authentication
   - MySQL, PostgreSQL, MongoDB
-  - Docker (basics)
+  - Docker, Kubernetes, AWS (basics)
   - Git & GitHub
 
 ---
@@ -37,7 +37,6 @@ Handles hotel search, availability, booking, and cancellation via secure REST AP
 
 > 👉 Check out pinned repositories below for full code, documentation & Postman collections!
 -->
----
 
 ## 📫 How to Reach Me
 - ✉️ Email: ektas1612@gmail.com
