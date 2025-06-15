@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate Java developer with 4 years of experience
   - Git & GitHub
 
 ---
-
+<!--
 ## 🛠️ Highlighted Projects
 ### 📦 E-Commerce Backend System
 An end-to-end RESTful API backend with features like user login (JWT), product catalog, cart, and order management. Built with Spring Boot & MySQL.
@@ -36,7 +36,7 @@ Simulates a digital banking platform with account management, money transfers, a
 Handles hotel search, availability, booking, and cancellation via secure REST APIs.
 
 > 👉 Check out pinned repositories below for full code, documentation & Postman collections!
-
+-->
 ---
 
 ## 📫 How to Reach Me
@@ -44,7 +44,7 @@ Handles hotel search, availability, booking, and cancellation via secure REST AP
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ektasingh1612/)
 
 ---
-
+<!--
 ### 📊 GitHub Stats (Optional)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
@@ -56,7 +56,7 @@ Let’s build something amazing! 🚀
 
 <!-- ABOUT ME SECTION 
 
-![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)-->
+![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
@@ -66,7 +66,7 @@ Let’s build something amazing! 🚀
 
 - <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>A🎓 I hold a Master's degree in Production Engineering (M.Tech) and a Bachelor's degree in Mechanical Engineering (B.Tech). While my educational background is in mechanical engineering, I've pursued my passion for programming through self-learning.
 
-<!--- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌟 Although I don't have formal work experience in software development, I'm actively honing my skills and exploring new technologies. I'm eager to contribute to meaningful projects and make an impact in the software development community.-->
+<!--- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌟 Although I don't have formal work experience in software development, I'm actively honing my skills and exploring new technologies. I'm eager to contribute to meaningful projects and make an impact in the software development community.
 
 - <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>🌱 In my free time, I enjoy diving deeper into coding, exploring new technologies, and working on personal projects. I'm always open to learning and collaborating with others to expand my knowledge and skills.
 
@@ -96,7 +96,7 @@ Let’s build something amazing! 🚀
 <a href="https://www.leetcode.com/ekta_singh1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekta_singh1612" height="30" width="40" /></a>
 </p>
 
-<!-- LANGUAGES AND TOOLS SECTION -->
+<!-- LANGUAGES AND TOOLS SECTION 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -116,8 +116,8 @@ Let’s build something amazing! 🚀
 <!-- -<img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)** -->
 <!--
 - <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/es1612)**
--->
-<!-- -->
+
+
 ## <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>Programming Languages :
 
 <p align="left"> 
