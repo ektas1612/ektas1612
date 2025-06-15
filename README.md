@@ -1,21 +1,66 @@
-<!-- <p align="center" width="100%">
-    <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
-</p> -->
 <p align="center" width="100%">
     <img width="80%" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Ekta Singh</h1>
 <h3 align="center">A full-stack Java developer from India</h3>
 
-<!-- <p align="left"> <a href="https://twitter.com/ektasingh161294" --> target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh161294?logo=twitter&style=for-the-badge" alt="ektasingh161294" /></a> </p>
+### 💻 Java Backend Developer | Spring Boot | Microservices | REST APIs | 4 Years Experience
 
-<!-- ABOUT ME SECTION -->
+Welcome to my GitHub! I'm a passionate Java developer with 4 years of experience in building robust, scalable backend systems for enterprise and startup-level applications. I specialize in Java, Spring Boot, Microservices architecture, and RESTful APIs, with strong knowledge of databases like MySQL and MongoDB.
 
-![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working as a Java Backend Developer.
+- 🌱 I’m continuously learning advanced concepts in system design and cloud architecture (AWS/GCP).
+- 👨‍💻 Most of my projects are built using:
+  - Java 11/17
+  - Spring Boot & Spring Cloud
+  - RESTful APIs
+  - Microservices
+  - JWT-based Authentication
+  - MySQL, PostgreSQL, MongoDB
+  - Docker (basics)
+  - Git & GitHub
+
+---
+
+## 🛠️ Highlighted Projects
+### 📦 E-Commerce Backend System
+An end-to-end RESTful API backend with features like user login (JWT), product catalog, cart, and order management. Built with Spring Boot & MySQL.
+
+### 🏦 Banking API System
+Simulates a digital banking platform with account management, money transfers, and transaction history. Developed using Microservices architecture.
+
+### 🏨 Hotel Booking System
+Handles hotel search, availability, booking, and cancellation via secure REST APIs.
+
+> 👉 Check out pinned repositories below for full code, documentation & Postman collections!
+
+---
+
+## 📫 How to Reach Me
+- ✉️ Email: ektas1612@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ektasingh1612/)
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+---
+
+Thanks for visiting! Feel free to check out my repositories and connect.  
+Let’s build something amazing! 🚀
+
+<!-- ABOUT ME SECTION 
+
+![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)-->
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
-- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **Java developer** interested in **problem-solving and developing new software** that will add value to the community.
 
 - <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>👩‍💻 As a self-taught programmer, I have a keen interest in Java full-stack development, and SQL. I'm proficient in Java, JavaScript, and specialize in technologies like Spring, Spring Boot, React etc.
 
@@ -37,7 +82,7 @@
 
 - <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
 -->
-<!-- - 🌱 I’m currently learning **Java, HTML, CSS, JS, React, Springboot, DBMS etc** -->
+<!-- - 🌱 I’m currently learning **Java, HTML, CSS, JS, React, Springboot, DBMS etc** 
 
 - 📫 How to reach me **ektas1612@gmail.com**
 
@@ -89,7 +134,7 @@
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/></a>
 <a href="https://www.javatpoint.com/flask-tutorial" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/flask.png" width="40" height="45"/></a>
-</p>-->
+</p>
 
 
 ## <img src="https://media1.giphy.com/media/aJTIkVe75lNK1vsyoV/giphy.gif?cid=5a38a5a2h73pfx6jxeshvikttiwnwqazssn5jk82cqwabb81&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:45px;width:40px"/>Tools :
@@ -104,9 +149,9 @@
  
    <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/></a>
   <!-- <a href="https://www.jetbrains.com/idea/"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
-   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a> -->
+   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/77437944/191386588-202fb095-0276-4223-89af-67b7d342750f.gif" width="40" height="45"/></a>
-<!--<a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/replit.png" alt="replit"/></a>-->
+<!--<a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/replit.png" alt="replit"/></a>
     
   
    <a href="https://cloud.mongodb.com/"><img src="https://img.icons8.com/color/48/null/mongodb.png"/></a> 
@@ -126,7 +171,7 @@
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
  <a href = "https://leetcode.com/iam-priyanshu-sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>
  <a href = "https://stackoverflow.com/users/19811633/he%e0%b8%aar%cf%84%e3%80%85h%e0%b8%aac%d2%9cer"><img src="https://img.icons8.com/color/48/null/stackoverflow.png"/></a>
-   <a href="https://auth.geeksforgeeks.org/user/ektas1612/"><img src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/></a>-->
+   <a href="https://auth.geeksforgeeks.org/user/ektas1612/"><img src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/></a>
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
@@ -139,7 +184,7 @@
 ## <img src="https://media1.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=5a38a5a2k3kaqtjtxf6mlamhsjjaes76fj063m1i4617wtoo&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>Quote that motivates me:-
 -  <img src="https://media0.giphy.com/media/1ryvI707BC2n7pHhrL/200w.gif?cid=5a38a5a2f10160f3f50de7f9851ec74d407296f26651900d&amp;rid=200w.gif&amp;ct=s" style="border:0;height:30px;width:30px"/>**Ã pèrßõñ whø ñëvër mäðë ä mïßtãkê ñêvër trïèð ãñýthíñg ñëw.**<img src="https://media4.giphy.com/media/kgm1x63AjTnn9yyhXh/200w.gif?cid=5a38a5a220f09fe04fffbe8a9c7a000e5427eeb965bb42da&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
 - <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/> **"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."**<img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
--->
+
 <p align="center" width="100%">
     <img width="40%" src="https://media1.giphy.com/media/26n6V5D3LWkDxj5GE/200.gif?cid=5a38a5a288xr872o6lt45psj8cqpf63nh4rs1en6vodd4mh4&amp;rid=200.gif&amp;ct=g">
 </p>
@@ -194,7 +239,7 @@
        
 <br/>
        
-
+-->
 
    
 <p align="center" width="100%">
